@@ -6,7 +6,7 @@ import { AiOutlineGithub, AiOutlineLinkedin, AiOutlineTwitter } from 'react-icon
 
 const Home = () => {
   return (
-    <VStack alignContent={"50%"} color={"whiteAlpha.900"}  paddingY={'10em'} bgColor={'blackAlpha.900'} w={'100%'} h={['160vh','100vh']}>
+    <VStack alignContent={"50%"} color={"whiteAlpha.900"}  paddingY={'10em'} bgColor={'blackAlpha.900'} w={'100%'} h={'100%'}>
       {/* <Heading color={'whiteAlpha.800'}>Profile</Heading> */}
       <Image boxSize={'150px'} src={me} borderRadius={'50%'} alt='mypic' objectFit={'cover'}/>
       <Typewriter margin={'20px'}
