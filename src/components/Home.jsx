@@ -35,7 +35,7 @@ const Home = () => {
       </HStack>
       <HStack paddingY={'3em'} paddingX={"2em"}>  
         <Button _hover={{color:"orange"}} color={"white"} bgColor={"transparent"}><a href="mailto:aman.srivastava2639@gmail.com" target={'blank'}>Say Hello 👋</a></Button>
-        <Button _hover={{color:"orange"}} color={"white"} border={'4px'} borderColor={"orange"} backgroundColor={"transparent"}><a href="https://drive.google.com/file/d/1dbio4y2_PlO_iaaU2qNGLxHPtC8zovW3/view" target={'blank'}>Resume</a></Button>
+        <Button _hover={{color:"orange"}} color={"white"} border={'4px'} borderColor={"orange"} backgroundColor={"transparent"}><a href="https://drive.google.com/file/d/1rVHcOBSRo107R5vauvAE-tuo_-CPviaD/view" target={'blank'}>Resume</a></Button>
       </HStack>
     </VStack>
   )
